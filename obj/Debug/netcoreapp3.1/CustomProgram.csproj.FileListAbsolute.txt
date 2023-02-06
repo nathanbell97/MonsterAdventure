@@ -1,0 +1,24 @@
+/Users/nathanbell/Documents/Code/CustomProgram/bin/Debug/netcoreapp3.1/CustomProgram.deps.json
+/Users/nathanbell/Documents/Code/CustomProgram/bin/Debug/netcoreapp3.1/CustomProgram.runtimeconfig.json
+/Users/nathanbell/Documents/Code/CustomProgram/bin/Debug/netcoreapp3.1/CustomProgram.runtimeconfig.dev.json
+/Users/nathanbell/Documents/Code/CustomProgram/bin/Debug/netcoreapp3.1/CustomProgram.dll
+/Users/nathanbell/Documents/Code/CustomProgram/bin/Debug/netcoreapp3.1/CustomProgram.pdb
+/Users/nathanbell/Documents/Code/CustomProgram/obj/Debug/netcoreapp3.1/CustomProgram.csprojAssemblyReference.cache
+/Users/nathanbell/Documents/Code/CustomProgram/obj/Debug/netcoreapp3.1/CustomProgram.AssemblyInfoInputs.cache
+/Users/nathanbell/Documents/Code/CustomProgram/obj/Debug/netcoreapp3.1/CustomProgram.AssemblyInfo.cs
+/Users/nathanbell/Documents/Code/CustomProgram/obj/Debug/netcoreapp3.1/CustomProgram.dll
+/Users/nathanbell/Documents/Code/CustomProgram/obj/Debug/netcoreapp3.1/CustomProgram.pdb
+/Users/nathanbell/Documents/Documents - Nathan’s MacBook Pro/Graduate Diploma Work/Code/CustomProgram/bin/Debug/netcoreapp3.1/CustomProgram
+/Users/nathanbell/Documents/Documents - Nathan’s MacBook Pro/Graduate Diploma Work/Code/CustomProgram/bin/Debug/netcoreapp3.1/CustomProgram.deps.json
+/Users/nathanbell/Documents/Documents - Nathan’s MacBook Pro/Graduate Diploma Work/Code/CustomProgram/bin/Debug/netcoreapp3.1/CustomProgram.runtimeconfig.json
+/Users/nathanbell/Documents/Documents - Nathan’s MacBook Pro/Graduate Diploma Work/Code/CustomProgram/bin/Debug/netcoreapp3.1/CustomProgram.runtimeconfig.dev.json
+/Users/nathanbell/Documents/Documents - Nathan’s MacBook Pro/Graduate Diploma Work/Code/CustomProgram/bin/Debug/netcoreapp3.1/CustomProgram.dll
+/Users/nathanbell/Documents/Documents - Nathan’s MacBook Pro/Graduate Diploma Work/Code/CustomProgram/bin/Debug/netcoreapp3.1/CustomProgram.pdb
+/Users/nathanbell/Documents/Documents - Nathan’s MacBook Pro/Graduate Diploma Work/Code/CustomProgram/obj/Debug/netcoreapp3.1/CustomProgram.csproj.AssemblyReference.cache
+/Users/nathanbell/Documents/Documents - Nathan’s MacBook Pro/Graduate Diploma Work/Code/CustomProgram/obj/Debug/netcoreapp3.1/CustomProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanbell/Documents/Documents - Nathan’s MacBook Pro/Graduate Diploma Work/Code/CustomProgram/obj/Debug/netcoreapp3.1/CustomProgram.AssemblyInfoInputs.cache
+/Users/nathanbell/Documents/Documents - Nathan’s MacBook Pro/Graduate Diploma Work/Code/CustomProgram/obj/Debug/netcoreapp3.1/CustomProgram.AssemblyInfo.cs
+/Users/nathanbell/Documents/Documents - Nathan’s MacBook Pro/Graduate Diploma Work/Code/CustomProgram/obj/Debug/netcoreapp3.1/CustomProgram.csproj.CoreCompileInputs.cache
+/Users/nathanbell/Documents/Documents - Nathan’s MacBook Pro/Graduate Diploma Work/Code/CustomProgram/obj/Debug/netcoreapp3.1/CustomProgram.dll
+/Users/nathanbell/Documents/Documents - Nathan’s MacBook Pro/Graduate Diploma Work/Code/CustomProgram/obj/Debug/netcoreapp3.1/CustomProgram.pdb
+/Users/nathanbell/Documents/Documents - Nathan’s MacBook Pro/Graduate Diploma Work/Code/CustomProgram/obj/Debug/netcoreapp3.1/CustomProgram.genruntimeconfig.cache

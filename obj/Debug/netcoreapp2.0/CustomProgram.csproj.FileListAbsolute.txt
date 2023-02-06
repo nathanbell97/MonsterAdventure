@@ -1,0 +1,10 @@
+/Users/nathanbell/Documents/Code/CustomProgram/bin/Debug/netcoreapp2.0/CustomProgram.deps.json
+/Users/nathanbell/Documents/Code/CustomProgram/bin/Debug/netcoreapp2.0/CustomProgram.runtimeconfig.json
+/Users/nathanbell/Documents/Code/CustomProgram/bin/Debug/netcoreapp2.0/CustomProgram.runtimeconfig.dev.json
+/Users/nathanbell/Documents/Code/CustomProgram/bin/Debug/netcoreapp2.0/CustomProgram.dll
+/Users/nathanbell/Documents/Code/CustomProgram/bin/Debug/netcoreapp2.0/CustomProgram.pdb
+/Users/nathanbell/Documents/Code/CustomProgram/obj/Debug/netcoreapp2.0/CustomProgram.csprojAssemblyReference.cache
+/Users/nathanbell/Documents/Code/CustomProgram/obj/Debug/netcoreapp2.0/CustomProgram.AssemblyInfoInputs.cache
+/Users/nathanbell/Documents/Code/CustomProgram/obj/Debug/netcoreapp2.0/CustomProgram.AssemblyInfo.cs
+/Users/nathanbell/Documents/Code/CustomProgram/obj/Debug/netcoreapp2.0/CustomProgram.dll
+/Users/nathanbell/Documents/Code/CustomProgram/obj/Debug/netcoreapp2.0/CustomProgram.pdb
